@@ -7,5 +7,4 @@ A Python tool to analyze password strength using entropy, dictionary detection, 
 - Dictionary and common-password detection
 - Pattern detection (sequences, repeated characters, keyboard patterns)
 - Brute-force time-to-crack estimate
-- CLI and JSON output for easy integration
 
