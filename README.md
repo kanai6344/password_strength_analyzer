@@ -2,6 +2,7 @@
 
 A Python tool to analyze password strength using entropy, dictionary detection, pattern analysis, and brute-force time estimation.
 
+
 ## Features
 - Entropy calculation (bits)
 - Dictionary and common-password detection
